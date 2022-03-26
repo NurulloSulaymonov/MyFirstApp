@@ -127,7 +127,7 @@ function App() {
           <div className="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
             <h3>New York</h3>
             <p>
-              <b>The atmosphere in New York is lorem ipsum.</b>
+              <b>The atmosphere in New York is so bad</b>
             </p>
           </div>
         </div>
