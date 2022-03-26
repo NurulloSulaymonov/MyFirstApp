@@ -139,7 +139,7 @@ function App() {
           <div className="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
             <h3>Chicago</h3>
             <p>
-              <b>Thank you!, Chicago - A night we won't forget.</b>
+              <b>Thank you!, I wont forget </b>
             </p>
           </div>
         </div>
