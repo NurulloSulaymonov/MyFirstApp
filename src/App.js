@@ -113,7 +113,7 @@ function App() {
         >
           <img src={La} alt="la" style={{ width: "100%" }} />
           <div className="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-            <h3>Los Angeles</h3>
+            <h3>NEW YORK</h3>
             <p>
               <b>This text is in About  branch</b>
             </p>
